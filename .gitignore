@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+bootstrap/compiled.php
+app/storage/
+public_html/storage
+public_html/hot
+/.vagrant
